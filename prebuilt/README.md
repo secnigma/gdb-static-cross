@@ -8,6 +8,7 @@ This is a collection of statically compiled gdbserver executables for Linux for 
 
 ```
 gdbserver-6.8-mips-i-rtl819x-lexra:                                ELF 32-bit MSB executable, MIPS, MIPS-I version 1 (SYSV), statically linked
+gdbserver-7.7-mips-i-rtl8672-lexra                                 ELF 32-bit MSB executable, MIPS, MIPS-I version 1 (SYSV), statically linked, with debug_info, not stripped
 gdbserver-7.12-mipsel-i-v1-sysv:                                   ELF 32-bit LSB executable, MIPS, MIPS-I version 1 (SYSV), statically linked, for GNU/Linux 2.2.15
 gdbserver-7.12-mips-i-v1-rtl819x-rsdk-1.3.6-4181-EB-2.6.30-0.9.30: ELF 32-bit MSB executable, MIPS, MIPS-I version 1 (SYSV), statically linked
 gdbserver-7.12-mips-i-v1-rtl819x-rsdk-1.3.6-5281-EB-2.6.30-0.9.30: ELF 32-bit MSB executable, MIPS, MIPS-I version 1 (SYSV), statically linked
